@@ -4,6 +4,8 @@ DePINs.io is an autonomous yield infrastructure layer that transforms idle infra
 
 By combining DePIN networks, Liquid Staking protocols, and AI-powered yield optimization, DePINs.io abstracts away the complexity of staking and restaking while maximizing returns for enterprises and developers.
 
+➡️ Pitch Deck: [Figma](https://www.figma.com/deck/Q7wCGoot1X0L7Bky6wWKXl/depins.io-pitchdeck?node-id=1-255&t=dO3x2IcdUAKil9wE-1)
+
 ## 📁 Project Structure
 
 ```
